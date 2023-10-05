@@ -31,6 +31,38 @@
   <h1 align="center">
   Hey there! :wave:
 </h1>
+
+<div id="banner" align="center">
+   <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+
+I'm a Software Developer living in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+
+💻 I'm a junior Developer that's learning Software Development from Makers
+
+🌱 I'm open to learn more about Software Development and enhance my skills
+
+:video_game: In my free time I like to play videogames, read books and exercise
+
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/lily-burton-7a8826a9/")
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</div>
 <!--
 **LilyBurton/LilyBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
