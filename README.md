@@ -1,10 +1,4 @@
-<div id="header" align="center">
-  
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-  
 
- 
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lily-burton-7a8826a9/">
@@ -32,9 +26,6 @@
   Hey there! :wave:
 </h1>
 
-<div id="banner" align="center">
-   <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
