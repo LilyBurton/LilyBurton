@@ -31,7 +31,7 @@
 
 ### :woman_technologist: About Me :
 
-I'm a Software Developer living in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales: 
 
 💻 I'm a junior Developer that's learning Software Development from Makers
 
