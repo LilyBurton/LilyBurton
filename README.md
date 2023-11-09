@@ -33,7 +33,9 @@
 
 I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales: 
 
-💻 I'm a junior Developer that's learning Software Development from Makers
+💻 I'm a junior Developer that's learned Software Development from Makers
+
+📝 I studied Art and Animation in University of Portsmouth
 
 🌱 I'm open to learn more about Software Development and enhance my skills
 
