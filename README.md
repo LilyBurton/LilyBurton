@@ -29,7 +29,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+:woman: About Me :
 
 I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales: 
 
@@ -43,7 +43,7 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
 
 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/lily-burton-7a8826a9/")
 
-### :hammer_and_wrench: Languages and Tools :
+🛠️ Languages and Tools :
 
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
