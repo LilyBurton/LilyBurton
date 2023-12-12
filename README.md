@@ -29,7 +29,7 @@
 
 ---
 
-:woman: About Me :
+💁‍♀️: About Me :
 
 I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales: 
 
@@ -39,9 +39,9 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
 
 🌱 I'm open to learn more about Software Development and enhance my skills
 
-:video_game: In my free time I like to play videogames, read books and exercise
+🎮: In my free time I like to play videogames, read books and exercise
 
-:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/lily-burton-7a8826a9/")
+📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/lily-burton-7a8826a9/")
 
 🛠️ Languages and Tools :
 
