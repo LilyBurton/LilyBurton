@@ -29,19 +29,8 @@
 
 ---
 
-💁‍♀️: About Me :
-
-I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales: 
-
-💻 I'm a junior Developer that's learned Software Development from Makers
-
-📝 I studied Art and Animation in University of Portsmouth
-
-🌱 I'm open to learn more about Software Development and enhance my skills
-
-🎮: In my free time I like to play videogames, read books and exercise
-
-📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/lily-burton-7a8826a9/")
+<h2>About Me!</h2>
+<p>My past work experience has been focused on communicating with customers, on both phone and in person. During my free time, I'm a bit more introverted where I love to read, write, play videogames, including streaming on Twitch and watch TV shows. I constantly love to explore and learn new things, particularly within technology and I found that keen sense of exploring through software development, where I can explore my creativity through frontend, using my brain for problem solving and experiment what I can do by creating applications. Everyday is always a new adventure.</p>
 
 🛠️ Languages and Tools :
 
