@@ -77,6 +77,11 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
     <th>Group Project - A Recipe Generator where a user can input ingredients, dietary requirements, measurements, country of origin where the API would be able to generate the recipe. The users will also be able to login and save the recipes on their profile.</th>
     <th>React, CSS, Node, Express, Mongo.db,</th>
   </tr>
+  <tr>
+    <th><a href=https://github.com/LilyBurton/acebook-group-project>GameBook</a></th>
+    <th>Group Project - Gaming version of Facebook where users can login and have there own personal feed that's game related as well as being able to fetch Steam's API that shows a list of games and its newsfeed.</th>
+    <th>React, CSS, Node, Express, Mongo.db</th>
+  </tr>
 </table>
 <!--
 **LilyBurton/LilyBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
