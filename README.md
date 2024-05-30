@@ -64,13 +64,18 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
   </tr>
   <tr>
     <th><a href=https://github.com/LilyBurton/To-Do-App-Updated>To-Do-App Kanban Board</a></th>
-    <th>In Progress - Solo Project - A Kanban where you would be able to Create chores and Drag and drop them between 'Pending', 'Ongoing' and 'Done' as well as making comments.</th>
+    <th>In Progress - Solo Project - A Kanban where you would be able to Create chores and Drag and drop them between 'Pending', 'Ongoing' and 'Done' as well as making comments. It will also have a login function for the user so they will be able to save changes.</th>
     <th>React, TypeScript, CSS, Node, Socket</th>
   </tr>
   <tr>
     <th><a href=https://github.com/LilyBurton/CSharp---Delivery-Driver-Game>Delivery Driver Game</a></th>
     <th>Solo Project - Use it to learn C#. Have the ability to control a car around the area to pick up and drop off packages to customers.</th>
     <th>C#</th>
+  </tr>
+  <tr>
+    <th><a href=https://github.com/amancalledkidd/FlavourFinders>FlavourFinder</a></th>
+    <th>Group Project - A Recipe Generator where a user can input ingredients, dietary requirements, measurements, country of origin where the API would be able to generate the recipe. The users will also be able to login and save the recipes on their profile.</th>
+    <th>React, CSS, Node, Express, Mongo.db,</th>
   </tr>
 </table>
 <!--
