@@ -58,9 +58,12 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
 </div>
 <table>
   <tr>
-    <th>Projects</th>
-    <th>Description</th>
-    <th>Languages</th>
+    <th><strong>Projects</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>>Languages</strong</th>
+  </tr>
+  <tr>
+    
   </tr>
 </table>
 <!--
