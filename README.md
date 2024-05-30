@@ -63,7 +63,7 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
     <th><strong>Languages</strong></th>
   </tr>
   <tr>
-    <th>To-Do-App Kanban Board</th>
+    <th><a href=https://github.com/LilyBurton/To-Do-App-Updated>To-Do-App Kanban Board</a></th>
     <th>In Progress - Solo Project - A Kanban where you would be able to Create chores and Drag and drop them between 'Pending', 'Ongoing' and 'Done' as well as making comments.</th>
     <th>React, TypeScript, CSS, Node, Socket</th>
   </tr>
