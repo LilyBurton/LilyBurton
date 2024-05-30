@@ -60,10 +60,12 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
   <tr>
     <th><strong>Projects</strong></th>
     <th><strong>Description</strong></th>
-    <th><strong>>Languages</strong</th>
+    <th><strong>Languages</strong></th>
   </tr>
   <tr>
-    
+    <th>To-Do-App Kanban Board</th>
+    <th>In Progress - Solo Project - A Kanban where you would be able to Create chores and Drag and drop them between 'Pending', 'Ongoing' and 'Done' as well as making comments.</th>
+    <th>React, TypeScript, CSS, Node, Socket</th>
   </tr>
 </table>
 <!--
