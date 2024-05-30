@@ -67,6 +67,11 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
     <th>In Progress - Solo Project - A Kanban where you would be able to Create chores and Drag and drop them between 'Pending', 'Ongoing' and 'Done' as well as making comments.</th>
     <th>React, TypeScript, CSS, Node, Socket</th>
   </tr>
+  <tr>
+    <th><a href=https://github.com/LilyBurton/CSharp---Delivery-Driver-Game></a>Delivery Driver Game</th>
+    <th>Solo Project - Use it to learn C#. Have the ability to control a car around the area to pick up and drop off packages to customers.</th>
+    <th>C#</th>
+  </tr>
 </table>
 <!--
 **LilyBurton/LilyBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
