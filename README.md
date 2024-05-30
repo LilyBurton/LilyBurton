@@ -56,6 +56,13 @@ I'm a Software Developer living in Wales󠁧󠁢󠁷󠁬 :wales:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </div>
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>Description</th>
+    <th>Languages</th>
+  </tr>
+</table>
 <!--
 **LilyBurton/LilyBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
