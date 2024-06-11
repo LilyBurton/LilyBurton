@@ -85,7 +85,7 @@
 
 <h3>Streaming</h3>
 During my spare time, I love to stream videogames on Twitch where I make a community with people that shares similar interests and be able to communicate with viewers on the stream. This helps become confident in communicating with people and find comfort and speaking in my own voice. 
-<h2>Favourite Videogames</h2>
+<h4>Favourite Videogames</h4>
 <ul>
   <li>Spyro the Dragon</li>
   <li>The Sims series</li>
