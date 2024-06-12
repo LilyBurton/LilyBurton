@@ -88,7 +88,7 @@
 <h1>Hobbies outside of Coding</h1>
 
 <h3>Streaming</h3>
-During my spare time, I love to stream videogames on Twitch where I make a community with people that shares similar interests and be able to communicate with viewers on the stream. This helps become confident in communicating with people and find comfort and speaking in my own voice. 
+<p>During my spare time, I love to stream videogames on Twitch where I make a community with people that shares similar interests and be able to communicate with viewers on the stream. This helps become confident in communicating with people and find comfort and speaking in my own voice.</p> 
 <h4>Favourite Videogames</h4>
 <ul>
   <li>Spyro the Dragon</li>
@@ -99,7 +99,10 @@ During my spare time, I love to stream videogames on Twitch where I make a commu
 </ul>
 
 <h3>Walking</h3>
-I do find going out for a walk to be important in a daily life to get fresh air and sunlight that helps me energise for the day. As someone who loves to be in front of the computer, it's important for me do holistic wellness to take care of myself by taking a break from technology so i would be able to go back to work with a fresh mind. 
+<p>I do find going out for a walk to be important in a daily life to get fresh air and sunlight that helps me energise for the day. As someone who loves to be in front of the computer, it's important for me do holistic wellness to take care of myself by taking a break from technology so i would be able to go back to work with a fresh mind.</p> 
+
+<h3>Writing</h3>
+<p>One thing I love to do to relax is writing stories. Writing stories gives me immense joys but it also a continuous learning experience where I'll be able to express my ideas, thoughts and creativity. Seeing my thoughts and ideas been written on paper and constantly progressed through out is a huge accomplishment while also helping me to enhance my vocabulary, sharpen my analytical skills and also broadens my knowledge of various of topics.</p>
 <!--
 **LilyBurton/LilyBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
