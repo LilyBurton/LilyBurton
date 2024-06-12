@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <th><a href=https://github.com/LilyBurton/CSharp---Delivery-Driver-Game>Delivery Driver Game</a></th>
-    <th>Solo Project - Use it to learn C#. Have the ability to control a car around the area to pick up and drop off packages to customers.</th>
+    <th>Solo Project - Use it to learn C#. A little game where you have the ability to control a car around the area to pick up and drop off packages to customers.</th>
     <th>C#</th>
   </tr>
   <tr>
