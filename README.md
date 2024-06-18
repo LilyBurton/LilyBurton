@@ -84,7 +84,7 @@
 <h1>Hobbies outside of Coding</h1>
 
 <h3>Streaming</h3>
-<p>During my spare time, I love to stream video games on Twitch, where I build a community with people who share similar interests and communicate with viewers on the stream. This helps me become confident in communicating with people and find comfort in speaking in my own voice.</p> 
+<p>During my spare time, I love to stream video games on Twitch, where I build a community with people who share similar interests and communicate with viewers on the stream. Through years of streaming, I had been able to gain 648 followers that's continuously growing by playing a variety of games ranging from visual novels to simulation games. This helps me become confident in communicating with people and find comfort in speaking in my own voice.</p> 
 <h4>Favourite Videogames</h4>
 <ul>
   <li>Spyro the Dragon</li>
