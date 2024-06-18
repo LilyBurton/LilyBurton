@@ -30,7 +30,7 @@
 ---
 
 <h2>About Me!</h2>
-<p>My past work experience has been focused on communicating with customers, on both phone and in person. During my free time, I'm a bit more introverted where I love to read, write, play videogames, including streaming on Twitch and watch TV shows. I constantly love to explore and learn new things, particularly within technology and I found that keen sense of exploring through software development, where I can explore my creativity through frontend, using my brain for problem solving and experiment what I can do by creating applications. Everyday is always a new adventure.</p>
+<p>My past work experience has been focused on communicating with customers, both on the phone and in person. During my free time, I'm a bit more introverted; I love to read, write, play video games, stream on Twitch, and watch TV shows. I constantly love to explore and learn new things, particularly within technology, and I found that keen sense of exploration through software development. It allows me to express my creativity through frontend development, use my brain for problem-solving, and experiment by creating applications. Every day is always a new adventure.</p>
 
 🛠️ Languages and Tools :
 
@@ -53,22 +53,22 @@
   </tr>
   <tr>
     <th><a href=https://github.com/LilyBurton/To-Do-App-Updated>To-Do-App Kanban Board</a></th>
-    <th>In Progress - Solo Project - A Kanban where you would be able to Create chores and Drag and drop them between 'Pending', 'Ongoing' and 'Done' as well as making comments. It will also have a login function for the user so they will be able to save changes.</th>
+    <th>In Progress - Solo Project - A Kanban board where you can create chores and drag and drop them between 'Pending', 'Ongoing', and 'Done' as well as make comments. It will also have a login function for users to save changes.</th>
     <th>React, TypeScript, CSS, Node, Socket</th>
   </tr>
   <tr>
     <th><a href=https://github.com/LilyBurton/CSharp---Delivery-Driver-Game>Delivery Driver Game</a></th>
-    <th>Solo Project - Use it to learn C#. A little game where you have the ability to control a car around the area to pick up and drop off packages to customers.</th>
+    <th>Solo Project - Solo Project - Learning C#. A game where you control a car to pick up and drop off packages to customers.</th>
     <th>C#</th>
   </tr>
   <tr>
     <th><a href=https://github.com/amancalledkidd/FlavourFinders>FlavourFinder</a></th>
-    <th>Group Project - A Recipe Generator where a user can input ingredients, dietary requirements, measurements, country of origin where the API would be able to generate the recipe. The users will also be able to login and save the recipes on their profile.</th>
+    <th>Group Project - A recipe generator where users can input ingredients, dietary requirements, measurements, and country of origin, and the API generates a recipe. Users can also log in and save recipes on their profile.</th>
     <th>React, CSS, Node, Express, Mongo.db,</th>
   </tr>
   <tr>
     <th><a href=https://github.com/LilyBurton/acebook-group-project>GameBook</a></th>
-    <th>Group Project - Gaming version of Facebook where users can login and have there own personal feed that's game related as well as being able to fetch Steam's API that shows a list of games and its newsfeed.</th>
+    <th>Group Project - A gaming version of Facebook where users can log in and have their own personal feed related to games, and fetch Steam's API to show a list of games and its newsfeed.</th>
     <th>React, CSS, Node, Express, Mongo.db</th>
   </tr>
 </table>
@@ -76,15 +76,15 @@
 <h1>My Skills</h1>
 
 <h3>Willingness to Learn</h3>
-<p>As a junior developer, I am fully committed to continuously learn, develop and grow and many ways so I can explore different technologies, methodologies and languages and I'm always eager to enhance my skills. My time at Makers Bootcamp helped me started my journey as a developer and helped me find ways to expand my knowledge within the world of technology by doing various courses, communicate with other developers to understand the world of tech, creating projects through research and attending to workshops and events to understand different technologies and learn about the industry trends.</p>
+<p>As a junior developer, I am fully committed to continuously learning, developing, and growing in many ways so I can explore different technologies, methodologies, and languages. I'm always eager to enhance my skills. My time at Makers Bootcamp helped me start my journey as a developer and find ways to expand my knowledge within the world of technology by taking various courses, communicating with other developers to understand the tech world, creating projects through research, and attending workshops and events to understand different technologies and industry trends.</p>
 
 <h3>Communicate</h3>
-<p>I have deonstrated strong communications that has learned it has become essential when communicating with other developers. In my previous position in retail, I regularly interact with customers, resolving their issues and giving them a positive experience. This role honed my ability to convey information clearly and empathetically. Additionally, during the Makers Bootcamp, I worked on several group projects where effective communication was essential. For example, while developing FlavourFinders, our final group project, we organized morning stand-ups, pair programming, and evening retros to ensure the team members are up to date with the tasks, working together to deal with errors and blockers and check in on everyone to see how they feel about their progress. My ability to communicate effectively, both with technical and non-technical stakeholders, is a strength I bring to any team.</p>
+<p>I have demonstrated strong communication skills, which have become essential when interacting with other developers. In my previous retail position, I regularly interacted with customers, resolving their issues and ensuring a positive experience. This role honed my ability to convey information clearly and empathetically. Additionally, during the Makers Bootcamp, I worked on several group projects where effective communication was crucial. For example, while developing FlavourFinder, our final group project, we organized morning stand-ups, pair programming, and evening retros to ensure the team was up to date with tasks, worked together to deal with errors and blockers, and checked in on everyone to see how they felt about their progress. My ability to communicate effectively with both technical and non-technical stakeholders is a strength I bring to any team.</p>
 
 <h1>Hobbies outside of Coding</h1>
 
 <h3>Streaming</h3>
-<p>During my spare time, I love to stream videogames on Twitch where I make a community with people that shares similar interests and be able to communicate with viewers on the stream. This helps become confident in communicating with people and find comfort and speaking in my own voice.</p> 
+<p>During my spare time, I love to stream video games on Twitch, where I build a community with people who share similar interests and communicate with viewers on the stream. This helps me become confident in communicating with people and find comfort in speaking in my own voice.</p> 
 <h4>Favourite Videogames</h4>
 <ul>
   <li>Spyro the Dragon</li>
@@ -95,10 +95,10 @@
 </ul>
 
 <h3>Walking</h3>
-<p>I do find going out for a walk to be important in a daily life to get fresh air and sunlight that helps me energise for the day. As someone who loves to be in front of the computer, it's important for me do holistic wellness to take care of myself by taking a break from technology so i would be able to go back to work with a fresh mind.</p> 
+<p>I find going out for a walk to be important for getting fresh air and sunlight, which helps energize me for the day. As someone who loves being in front of the computer, it's important for me to practice holistic wellness and take care of myself by taking breaks from technology so I can return to work with a fresh mind.</p> 
 
 <h3>Writing</h3>
-<p>One thing I love to do to relax is writing stories. Writing stories gives me immense joys but it also a continuous learning experience where I'll be able to express my ideas, thoughts and creativity. Seeing my thoughts and ideas been written on paper and constantly progressed through out is a huge accomplishment while also helping me to enhance my vocabulary, sharpen my analytical skills and also broadens my knowledge of various of topics.</p>
+<p>One thing I love to do to relax is writing stories. Writing gives me immense joy and is also a continuous learning experience where I can express my ideas, thoughts, and creativity. Seeing my thoughts and ideas written on paper and constantly progressing is a huge accomplishment. It also helps me enhance my vocabulary, sharpen my analytical skills, and broaden my knowledge of various topics.</p>
 <!--
 **LilyBurton/LilyBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
