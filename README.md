@@ -81,10 +81,6 @@
 <h3>Communicate</h3>
 <p>I have deonstrated strong communications that has learned it has become essential when communicating with other developers. In my previous position in retail, I regularly interact with customers, resolving their issues and giving them a positive experience. This role honed my ability to convey information clearly and empathetically. Additionally, during the Makers Bootcamp, I worked on several group projects where effective communication was essential. For example, while developing FlavourFinders, our final group project, we organized morning stand-ups, pair programming, and evening retros to ensure the team members are up to date with the tasks, working together to deal with errors and blockers and check in on everyone to see how they feel about their progress. My ability to communicate effectively, both with technical and non-technical stakeholders, is a strength I bring to any team.</p>
 
-<h3>Adaptability</h3>
-<p>Thanks to my previous experience, adaptability has become my greatest strength where I be able to adapt in fast-paced environment. In just 16 weeks in Makers Bootcamp, I have been able to learn new programming languages, technologies and frameworks to meet the needs of my projects and continuously evolving my knowledge. For example, during my experience in Bootcamp I have become interested in the MERN stack to understand React and routing it to express and node so that it will be able to connect to Mongo.db. With these skills I would be able to learn new JavaScript frameworks such as TypeScript and how to integrate them into my projects.</p>
-
-
 <h1>Hobbies outside of Coding</h1>
 
 <h3>Streaming</h3>
