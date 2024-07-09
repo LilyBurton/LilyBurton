@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <th><a href=https://github.com/LilyBurton/To-Do-App-Updated>To-Do-App Kanban Board</a></th>
-    <th>In Progress - Solo Project - A Kanban board where you can create chores and drag and drop them between 'Pending', 'Ongoing', and 'Done' as well as make comments. It will also have a login function for users to save changes.</th>
+    <th>Solo Project - A Kanban board where you can create chores and drag and drop them between 'Pending', 'Ongoing', and 'Done'.</th>
     <th>React, TypeScript, CSS, Node, Socket</th>
   </tr>
   <tr>
