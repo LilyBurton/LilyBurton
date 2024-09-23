@@ -30,7 +30,7 @@
 ---
 
 <h2>About Me!</h2>
-<p>An highly driven Junior Front End Developer with a BA in Animation where I learnt animation in pensil and paper, 3D Maya and on Adobe software as well as past work experience in communicating with customers, both in person and on calls.</p>
+<p>An highly driven Junior Front End Developer with a BA in Animation where I learned animation in pencil and paper, 3D Maya and on Adobe software as well as past work experience in communicating with customers, both in person and on calls.</p>
 
 <p>I've been inspired to do Development by the people around me where I've seen really cool things whether for their jobs or projects and I would love to be part in creating something so while I learn the basics of development I realise Front-End Development is my calling based on my past with art and design and HTML, CSS and JavaScript was the first languages I've learnt.</p>
 
