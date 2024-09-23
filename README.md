@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-<h1>My Skills</h1>
+<h2>My Skills</h2>
 
 <ul>
   <li>Willingness to Learn</li>
@@ -89,7 +89,7 @@
   <li>An eye for layouts and design</li>
 </ul>
 
-<h1>Hobbies outside of Coding</h1>
+<h2>Hobbies outside of Coding</h2>
 
 <ul>
   <li>Streaming</li>
