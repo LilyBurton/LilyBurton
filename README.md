@@ -30,7 +30,11 @@
 ---
 
 <h2>About Me!</h2>
-<p>My past work experience has been focused on communicating with customers, both on the phone and in person. During my free time, I'm a bit more introverted; I love to read, write, play video games, stream on Twitch, and watch TV shows. I constantly love to explore and learn new things, particularly within technology, and I found that keen sense of exploration through software development. It allows me to express my creativity through frontend development, use my brain for problem-solving, and experiment by creating applications, by doing this I watch various youtube videos, read tech blogs and follow, connect and talk to different people to learn about the world of technology. In order to explore frontend development, I focus on learning and enhancing my skills in JavaScript frameworks, particularly with React and TypeScript so I'll be able to keep up to date with technologies and use this knowledge to create projects myself. Thanks to this, every day is always a new adventure.</p>
+<p>An highly driven Junior Front End Developer with a BA in Animation where I learnt animation in pensil and paper, 3D Maya and on Adobe software as well as past work experience in communicating with customers, both in person and on calls.</p>
+
+<p>I've been inspired to do Development by the people around me where I've seen really cool things whether for their jobs or projects and I would love to be part in creating something so while I learn the basics of development I realise Front-End Development is my calling based on my past with art and design and HTML, CSS and JavaScript was the first languages I've learnt.</p>
+
+<p>From July 2023 - October 2023, I took part in a Makers Bootcamp where I did a 16 week program where I learnt Python to learn about databases, TDD and web development along with SQL and software development where I learned JavaScript, React, Mongo.db, Express, Node and Swift to learn a little bit about mobile development. </p>
 
 🛠️ Languages and Tools :
 
@@ -75,30 +79,26 @@
 
 <h1>My Skills</h1>
 
-<h3>Willingness to Learn</h3>
-<p>As a junior developer, I am fully committed to continuously learning, developing, and growing in many ways so I can explore different technologies, methodologies, and languages. The biggest example of this is I learnt C# througha Udemy course so that I'll be able to understand both C# and working with Unity and understanding how gaming development works. Through the Udemy course I learned how to set an environment, creating different objects, importing files and using C# to be able to control various objects through C#. I'm always eager to enhance my skills. My time at Makers Bootcamp helped me start my journey as a developer and find ways to expand my knowledge within the world of technology by taking various courses, communicating with other developers to understand the tech world, creating projects through research, and attending workshops and events suck as TechGirls I went to talk to different female developers in London to understand different technologies, industry trends and what to expect when applying for tech jobs.</p>
-
-<h3>Communication</h3>
-<p>I have demonstrated strong communication skills, which have become essential when interacting with other developers. In my previous retail position, I regularly interacted with customers, resolving their issues and ensuring a positive experience. This role honed my ability to convey information clearly and empathetically. Additionally, during the Makers Bootcamp, I worked on several group projects where effective communication was crucial. For example, while developing FlavourFinder, our final group project, we organized morning stand-ups, pair programming, and evening retros to ensure the team was up to date with tasks, worked together to deal with errors and blockers, and checked in on everyone to see how they felt about their progress. My ability to communicate effectively with both technical and non-technical stakeholders is a strength I bring to any team as well as being able to be a second pair of eyes to other team members to find any errors that can block us from progressing, including minor set backs such as spelling errors, puncuation and understanding the information the errors are trying to tell us.</p>
+<ul>
+  <li>Willingness to Learn</li>
+  <li>Communication</li>
+  <li>Teamwork</li>
+  <li>Test-Driving</li>
+  <li>Planning</li>
+  <li>Catching errors and bugs</li>
+  <li>An eye for layouts and design</li>
+</ul>
 
 <h1>Hobbies outside of Coding</h1>
 
-<h3>Streaming</h3>
-<p>During my spare time, I love to stream video games on Twitch, where I build a community with people who share similar interests and communicate with viewers on the stream. Through years of streaming, I had been able to gain 648 followers that's continuously growing by playing a variety of games ranging from visual novels to simulation games. This helps me become confident in communicating with people and find comfort in speaking in my own voice.</p> 
-<h4>Favourite Videogames</h4>
 <ul>
-  <li>Spyro the Dragon</li>
-  <li>The Sims series</li>
-  <li>Belatro</li>
-  <li>Tekken Series</li>
-  <li>Crash Bandicoot Series</li>
+  <li>Streaming</li>
+  <li>Writing</li>
+  <li>Walking</li>
+  <li>Playing Videogames</li>
+  <li>Reading</li>
+  <li>Watching cartoons and Anime</li>
 </ul>
-
-<h3>Walking</h3>
-<p>I find going out for a walk to be important for getting fresh air and sunlight, which helps energize me for the day. As someone who loves being in front of the computer, it's important for me to practice holistic wellness and take care of myself by taking breaks from technology so I can return to work with a fresh mind.</p> 
-
-<h3>Writing</h3>
-<p>One thing I love to do to relax is writing stories. Writing gives me immense joy and is also a continuous learning experience where I can express my ideas, thoughts, and creativity. Seeing my thoughts and ideas written on paper and constantly progressing is a huge accomplishment. It also helps me enhance my vocabulary, sharpen my analytical skills, and broaden my knowledge of various topics.</p>
 <!--
 **LilyBurton/LilyBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
